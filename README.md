@@ -6,5 +6,5 @@ I want to be a professional web developer with the ability to take on jobs or co
 I am a responsible, self-taught person who always seeks to have a balance in everything and have harmony to achieve a good result.
 
 ---
-> Languages: VB.Net - JavaScrip - TypeScript - NodeJs - HTML,CSS3 
+> Languages: VB.Net - JavaScript - TypeScript - NodeJs - Angular - React - HTML,CSS3 
 
